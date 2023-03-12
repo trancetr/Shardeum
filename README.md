@@ -9,4 +9,7 @@ Login with Putty Shell
 2- wget -q -O node_control.sh https://raw.githubusercontent.com/trancetr/Shardeum/main/node_control.sh && chmod +x node_control.sh && sudo /bin/bash node_control.sh
 
 3- ctrl+b+d
+
+4- Watch tmux attach -t shardeumnodechecker
+
 Enjoy
